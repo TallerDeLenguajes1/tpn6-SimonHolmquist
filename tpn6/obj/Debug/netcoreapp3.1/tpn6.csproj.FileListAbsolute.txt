@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.exe
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.deps.json
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.runtimeconfig.json
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.runtimeconfig.dev.json
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.dll
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\bin\Debug\netcoreapp3.1\tpn6.pdb
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.csprojAssemblyReference.cache
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.AssemblyInfo.cs
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.dll
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.pdb
+C:\Users\user\Documents\Simón\Programación\2do año\Taller de lenguajes I\tpn6-SimonHolmquist\tpn6\obj\Debug\netcoreapp3.1\tpn6.genruntimeconfig.cache
