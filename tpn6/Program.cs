@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using static System.Math;
 using System.Timers;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace tpn6
 {
@@ -14,7 +15,8 @@ namespace tpn6
             //Ejercicio1();
             //Ejercicio2();
             //Ejercicio3();
-            Ejercicio4();
+            //Ejercicio4();
+            Ejercicio5();
         }
 
         public static string Invertir(string entrada)
@@ -205,6 +207,26 @@ namespace tpn6
                 WriteLine("¿Desea realizar otra operación?\n1.Si\n2.No");
                 opcion = Convert.ToInt32(ReadLine());
             } while (opcion != 2); 
+        }
+        public static void Ejercicio5()
+        {
+            WriteLine("Ingrese una dirección web");
+            string dirWeb = ReadLine();
+            string patronWeb = @"https?://[www\.]?[\w\.\/\?\-\=]+";
+            if (Regex.IsMatch(dirWeb, patronWeb, RegexOptions.IgnoreCase))
+            {
+                WriteLine($"{dirWeb} es una dirección web válida");
+            }
+            else WriteLine($"{dirWeb} no es una dirección web válida");
+
+            WriteLine("Ingrese una dirección de mail");
+            string mail = ReadLine();
+            string patronMail = @"^[\w\.\-\+]+@\w+(\.\w{2,3})+";
+            if (Regex.IsMatch(mail, patronMail, RegexOptions.IgnoreCase))
+            {
+                WriteLine($"{mail} es una dirección de mail válida");
+            }
+            else WriteLine($"{mail} es una dirección de mail válida");
         }
     }
 }
